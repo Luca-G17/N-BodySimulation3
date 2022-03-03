@@ -20,7 +20,7 @@ win.fill(WHITE)
 
 MaxFps = 90
 
-G = 6.7 * (10 ** -2)
+G = 6.7 * (10 ** -2) * 10
 
 
 class Body(object):
